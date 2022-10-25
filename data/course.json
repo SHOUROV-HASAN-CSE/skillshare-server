@@ -1,0 +1,126 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.0, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "C++",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+    "details": "C++ is an object-oriented programming language that is simple and modern and a general-purpose programming language for application development. This can be great for students who wish to enter the Object-Oriented Programming.
+
+    The Course is designed in a way that develops basics and skills of C++ Language to Students. It gives Programmers a high level of control over system resources and memory. This cross-platform language can be used to create high-level applications. Aspirants who have done this course can have a wide range of opportunities open up in various platforms."
+  },
+
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Python",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": " https://www.techscrolling.com/wp-content/uploads/2018/06/Python-Programming-Language-in-Data-Science.png",
+    "details": "Python is one of the **top computer programming courses in Bangladesh** & a computer language that is quite popular these days since it has machine learning elements integrated with it. A course in Python would teach you the basics of Python and how you can use it to do your basic coding. If you are someone who has a moderate knowledge of computers, coding, and programming, then you will easily get a hang of Python and learn to program online.
+
+    Python is a very in-demand hard skill in the computer programming industry. Its market is projected to reach USD 100.6 Million in 2030 showing a CAGR of 44.8%. [(Source)](https://www.emergenresearch.com/industry-report/python-market). The reason why Python is in demand is because of its applicability in each area, from web development to data science and machine learning. It is useful in evry domain, as it not only eases out the tasks but having this skill opens many career options and job opportunities. In today’s time, there is no limit to educating oneself as there are many options to learn programming online."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "03",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Web Development",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": " https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+    "details": "The demand for Full Stack Developer is on the rise in the current world. A full stack developer is an individual who works both back-end and front-end for web development or app development. A course to become a Full Stack Developer would involve learning of HTML, JavaScript, CSS, Python, MySQL and so much more.
+
+    Bureau of Labour Statistics (BLS) has reported that CAGR will grow to 13% by 2026. ([Source](https://www.business-opportunities.biz/2020/01/17/full-stack-development-global-trends/)) A full-stack developer is expected to have knowledge of both backend and front-end development. They should be equipped with the understanding of these to take the task forward efficiently. So to do the same, there are a set of hard skills which are required for a full stack developer. Some of the hard skills are-
+    
+    1. HTML, CSS, etc.
+    2. JavaScript
+    3. PHP
+    4. Python
+    5. Git
+    6. SQL
+    7. Web Architecture
+    8. MongoDB
+    9. ReactJS
+    10. NodeJS
+    11. MernStack"
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "04",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "JavaScript",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://velog.velcdn.com/images/iaj0204/post/858b3c29-421d-4893-993e-dc000ea03641/image.jpeg",
+    "details": "If you do not want to be a Full Stack Web developer, but still want to work on web development, then you may have to start off with JavaScript. It is important to know how JavaScript works and understand the fundamental concepts behind JavaScript.
+    
+    The course will teach you what are closures, IIFEs, Prototypal inheritances, etc. It will also help you to debug your project from your own home. You will be able to understand the source code of frameworks in JavaScript and build your own JavaScript library or framework.
+    
+    JavaScript is known to be gaining popularity among professionals. There are certain hard skills which are required for its better implementation and some of them are mentioned below-
+    
+    1. Asynchronous programming
+    2. JavaScript Instantiation Patterns
+    3. Functional Programming
+    4. Cross-Browser Coding"
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Redux and React",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": " https://i0.wp.com/regroove.ca/wp-content/uploads/2018/07/react-redux-2.png?fit=2560%2C1440&ssl=1",
+    "details": "Redux and React are two major areas that any app developer should put emphasis on. If you are someone who wants to make your own app or want to work for a company and build an app, then make Redux and React your friends.
+
+    After going for a course in React and Redux, you can learn how to develop different apps which get support from Webpack, ES6, and NPM. It will help you understand the core behind how React components are built and the different structure-based applications of Redux.
+    
+    Redux is basically used to maintain the state of an application. Because of the ability of the state management of the application, it is useful in optimising the performance of the application.
+    
+    Whereas, React is used to create interactive applications for various platforms such as mobile, and web development. React also helps in creating composable user-friendly interfaces. This feature helps in creating reusable UI components and interfaces. It is a very powerful JavaScript library."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Angular 6",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://neelbhatt40.files.wordpress.com/2018/09/1_byahy7btparvpzkgm6yv1q.png",
+    "details": "If you want to amp up your game and build reactive and amazing web applications, then you have to master Angular 6. Angular 6 is a successor of the once-popular Angular.js and it will help you understand directives, components, routings, HTTP access, etc.
+
+    The high scalability of the framework of Angular 6 is the reason behind its high demand. It is a Javascript framework used to develop web applications. It has built-in features of animations and https. It builds very smooth and highly testable websites and applications. It also makes use of its features and helps to dissolve any leakages by debugging. The growth for Angular Developers is predicted to grow by 31% by the year 2026."
+  }
+]
