@@ -10,9 +10,6 @@ const categories = require('./data/categories.json');
 const course = require('./data/course.json');
 
 
-app.get('/',(req, res) =>{
-  res.send('Course Server Running');
-})
 
 app.get('/course-categories',(req, res) =>{
   res.send(categories);
@@ -29,10 +26,5 @@ app.get('/category/:id',(req, res) =>{
   
 })
 
-
-
-
-
 app.listen(port, () => {
-  console.log('Course Server Running on port:', port);
 })
