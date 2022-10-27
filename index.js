@@ -26,5 +26,12 @@ app.get('/category/:id',(req, res) =>{
   
 })
 
+app.get('/checkout/:id',(req, res) =>{
+  const id = req.params.id;
+  const selectedCourse = course.find( n => n.category_id === id );
+  res.send(selectedCourse);
+  
+})
+
 app.listen(port, () => {
 })
